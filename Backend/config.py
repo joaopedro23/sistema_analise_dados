@@ -1,0 +1,1 @@
+# Configurações do projeto (banco de dados)

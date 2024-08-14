@@ -1,0 +1,1 @@
+# Script principal para rodar o servidor Flask
